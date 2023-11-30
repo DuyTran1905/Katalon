@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Edit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>24fbeaa0-4665-4065-a544-c5b77d509f40</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0612c007-cf99-4760-9a66-97154d77126f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0612c007-cf99-4760-9a66-97154d77126f</id>
+      <masked>false</masked>
+      <name>Data</name>
+   </variable>
+</TestCaseEntity>

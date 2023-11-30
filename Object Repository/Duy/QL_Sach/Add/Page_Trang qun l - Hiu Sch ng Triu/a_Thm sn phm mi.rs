@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Thm sn phm mi</name>
+   <tag></tag>
+   <elementGuidId>ddca69f8-5b67-4cc6-b402-09e75f2bb199</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-success</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-wrapper']/div/form/div/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>97239d4c-bc45-4885-b47a-c1376289bc4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Admin/Sanpham/Create</value>
+      <webElementGuid>20ce0843-8944-452e-acbb-38a1a370b44e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-success</value>
+      <webElementGuid>e99552a8-9cdc-4bb6-ad90-e00f207a5bf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Thêm sản phẩm mới</value>
+      <webElementGuid>0624ac94-a76c-48e0-b8f5-baa3f05afe30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrapper&quot;)/div[@class=&quot;container-fluid&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-5&quot;]/a[@class=&quot;btn btn-success&quot;]</value>
+      <webElementGuid>e9ab5b9d-1883-4e98-9b7e-970fc687f379</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrapper']/div/form/div/div[2]/a</value>
+      <webElementGuid>0a1e8354-74e6-48ca-a363-7254868ce83e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Thêm sản phẩm mới')]</value>
+      <webElementGuid>2959b9af-3c44-4b66-9e16-2b674a671b3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Admin/Sanpham/Create')]</value>
+      <webElementGuid>0aeba8e8-6e70-4c3d-bf14-93bc78cd84fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a</value>
+      <webElementGuid>d84fb6fe-bb3e-4243-8011-6dd1f03f8af3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Admin/Sanpham/Create' and (text() = ' Thêm sản phẩm mới' or . = ' Thêm sản phẩm mới')]</value>
+      <webElementGuid>88928b14-e2e7-4eef-80a9-b67c90997ca1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>result</name>
+   <tag></tag>
+   <elementGuidId>87908ca6-2eb6-453a-bfe9-aac0427975d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.woocommerce-result-count.m-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='primary']/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>027f811e-9cfa-4e86-8473-bd5ccc7ad389</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-result-count m-0</value>
+      <webElementGuid>6bfc1b2f-e835-47bc-b7d9-1b99117941ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hiện thị 1-1 trong 53 kết quả</value>
+      <webElementGuid>4ef5b41b-bbaf-4663-80c9-d3236bbe1780</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;primary&quot;)/div[@class=&quot;shop-control-bar d-lg-flex justify-content-between align-items-center mb-5 text-center text-md-left&quot;]/div[@class=&quot;shop-control-bar__left mb-4 m-lg-0&quot;]/p[@class=&quot;woocommerce-result-count m-0&quot;]</value>
+      <webElementGuid>22614456-819d-4fb1-b476-a15e69d22040</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='primary']/div/div/p</value>
+      <webElementGuid>bad6d310-547b-4171-b601-6fd1e9a20adb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>97cc55b7-201f-4da8-94c9-552ea2edd3be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Hiện thị 1-0 trong 53 kết quả' or . = 'Hiện thị 1-0 trong 53 kết quả')]</value>
+      <webElementGuid>bd160cc1-87bb-4dea-8d3f-ccac7cb66444</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

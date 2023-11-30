@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_btn btn-primary btn-sm</name>
+   <tag></tag>
+   <elementGuidId>e1711fa7-4ffc-469a-a71a-7d30581b7b1e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.btn.btn-primary.btn-sm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Sửa thể loại']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>da742195-15c8-446a-bece-8d190a076b6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>954506eb-8da9-470e-b1e6-a74de833f7a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Sửa thể loại</value>
+      <webElementGuid>197101db-37b1-459c-90c8-0379339c9619</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-sm</value>
+      <webElementGuid>ebe4147d-58c8-407b-a843-8a9a3169ec2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrapper&quot;)/div[@class=&quot;container-fluid&quot;]/form[1]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content-header&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row mb-2&quot;]/div[@class=&quot;col-6&quot;]/div[@class=&quot;float-right pt-1&quot;]/input[@class=&quot;btn btn-primary btn-sm&quot;]</value>
+      <webElementGuid>c606b80c-f0c6-4359-ba09-74c748b0d7a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Sửa thể loại']</value>
+      <webElementGuid>43ecb7cf-80ef-48b1-b83b-c432939b76cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrapper']/div/form/div/section/div/div/div[2]/div/input</value>
+      <webElementGuid>bccdf761-7a40-4128-a4d4-13f9275f5fdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/input</value>
+      <webElementGuid>18a8c273-b1bd-49f9-9358-ed0732e5954a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit']</value>
+      <webElementGuid>2fced4f3-69d8-46f9-aaf9-6bb0b6933c48</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

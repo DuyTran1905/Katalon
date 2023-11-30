@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div</name>
+   <tag></tag>
+   <elementGuidId>f2b6116c-5d89-4dda-89ae-10e21b3e4ff9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#r1 > div.image > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='r1']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1a5e60e4-0094-4780-9db5-75886cf8080f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>9a8323c3-05e6-4529-96bf-e6b421c0912c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;r1&quot;)/div[@class=&quot;image&quot;]/div[1]</value>
+      <webElementGuid>71f4ee17-b0c3-41b1-83da-c0c77f5ae3e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Duy/QL_Sach/Edit/Page_CKFinder 2/iframe_CKFinder</value>
+      <webElementGuid>2da9a590-1830-4a90-8ab9-4c1ff6996148</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='r1']/div/div</value>
+      <webElementGuid>13109024-d8f6-4bf4-b06b-b4d6af8291c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/div/div</value>
+      <webElementGuid>f61d2b0f-6ad0-4b0a-a8bd-35c100cabf3d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

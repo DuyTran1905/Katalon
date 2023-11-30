@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Danh sch th loi</name>
+   <tag></tag>
+   <elementGuidId>53389ac1-576c-4577-8055-b3858c964099</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='wrapper']/ul/li[3]/div/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6a81f381-d46d-454a-befa-fd9826368012</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item </value>
+      <webElementGuid>2f23a34a-8a85-46fc-a52f-4ed366a3b03b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Admin/Category/Index</value>
+      <webElementGuid>1a4ca4fd-7013-4fbc-b747-e5b36431076c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Danh sách thể loại</value>
+      <webElementGuid>ed626ece-a9fc-4b06-8cd2-0219ec8f5737</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/ul[@class=&quot;sidebar navbar-nav&quot;]/li[@class=&quot;nav-item dropdown show&quot;]/div[@class=&quot;dropdown-menu show&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
+      <webElementGuid>0c0ecd8b-8a0b-4b9a-a031-04404a2189fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/ul/li[3]/div/a[2]</value>
+      <webElementGuid>d3362734-91f2-488c-96ac-a0516fefba38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Danh sách thể loại')]</value>
+      <webElementGuid>ee5eb48b-460b-4844-a5b4-790b1805fbfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Admin/Category/Index')]</value>
+      <webElementGuid>f4d419c2-2b0f-4007-a87e-de7176bfc366</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/a[2]</value>
+      <webElementGuid>e042f7da-8089-41a9-8c5a-1acf5dfa40c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Admin/Category/Index' and (text() = 'Danh sách thể loại' or . = 'Danh sách thể loại')]</value>
+      <webElementGuid>00924971-ee1b-4d19-b597-9260692438fe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

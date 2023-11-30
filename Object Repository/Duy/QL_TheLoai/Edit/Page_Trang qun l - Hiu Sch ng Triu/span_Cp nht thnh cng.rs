@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Cp nht thnh cng</name>
+   <tag></tag>
+   <elementGuidId>52575dcf-8aba-4bc3-989a-cd5ca74e8796</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.field-validation-error.text-success</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-wrapper']/div/form/div/div/div/div/div/div/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1fc0cbf4-9b18-453c-93f0-23facc963981</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>field-validation-error text-success</value>
+      <webElementGuid>3361110a-3826-459c-9d46-53c43b4ef284</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-valmsg-for</name>
+      <type>Main</type>
+      <value>categorySuccess</value>
+      <webElementGuid>b23fd9e6-9403-456d-9c2a-9f1e237d7a6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-valmsg-replace</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>6124ce08-8ba9-48d4-bdf7-82f4ce85276a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cập nhật thành công</value>
+      <webElementGuid>a0ddf8cd-a927-4b73-ad59-55c5cc2fe2a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrapper&quot;)/div[@class=&quot;container-fluid&quot;]/form[1]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-header&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-9&quot;]/div[@class=&quot;form-group&quot;]/span[@class=&quot;field-validation-error text-success&quot;]</value>
+      <webElementGuid>5ca68278-ed86-456c-a216-c227837c97e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrapper']/div/form/div/div/div/div/div/div/div/span[2]</value>
+      <webElementGuid>e78d66c8-0c9d-4472-8ac6-a83a69e972cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>1f4ec664-14ee-4fa1-aee6-98d0c8e1493c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Cập nhật thành công' or . = 'Cập nhật thành công')]</value>
+      <webElementGuid>335ce9de-7d48-49c9-ad6a-0796f419f516</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

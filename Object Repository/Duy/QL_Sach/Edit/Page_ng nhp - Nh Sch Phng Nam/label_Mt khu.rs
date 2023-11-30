@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Mt khu</name>
+   <tag></tag>
+   <elementGuidId>f0220df2-fe43-45a1-9388-cf6a0125ffb9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>82c01cee-3098-4012-8271-30e6c563d733</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>inputmk</value>
+      <webElementGuid>47899b6f-04d5-4806-b674-8baaa13b9457</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mật khẩu</value>
+      <webElementGuid>f921e2aa-e3c6-4ac1-831a-74662a0eb01b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-dark&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;card card-login mx-auto mt-5&quot;]/div[@class=&quot;card-body&quot;]/form[1]/div[@class=&quot;form-group&quot;]/div[@class=&quot;form-label-group&quot;]/label[1]</value>
+      <webElementGuid>6c212735-3bb8-4b5f-bb08-ed5182996bb2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/label</value>
+      <webElementGuid>92f32ff2-3164-4dbf-8adf-12501b0e2c15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Mật khẩu' or . = 'Mật khẩu')]</value>
+      <webElementGuid>24d698c6-b726-418e-9d0d-5b6b3c9d3816</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Ti Khon</name>
+   <tag></tag>
+   <elementGuidId>5528995c-47ae-40bf-9ba1-de1adf4453e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>aaca3043-420c-4861-934d-a350f5c0fa34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>inputTK</value>
+      <webElementGuid>1e88b336-d69e-4ac9-a53b-106c5543663d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tài Khoản</value>
+      <webElementGuid>e6e0eb6f-5cc6-4236-9769-9bdbe0377ac7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;bg-dark&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;card card-login mx-auto mt-5&quot;]/div[@class=&quot;card-body&quot;]/form[1]/div[@class=&quot;form-group&quot;]/div[@class=&quot;form-label-group&quot;]/label[1]</value>
+      <webElementGuid>102ede2d-cf5a-4ca3-a609-26b685c63188</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label</value>
+      <webElementGuid>75592d78-545a-4b80-aa81-1d4140c21f97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Tài Khoản' or . = 'Tài Khoản')]</value>
+      <webElementGuid>6e93d1b3-a687-4c7c-b5a9-829923ed307f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

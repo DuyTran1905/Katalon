@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Search</name>
+   <tag></tag>
+   <elementGuidId>738bc606-70a3-4801-a1f8-f56a3c58fd1e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='site-header']/div/div/div/div/div[2]/form/div/div[2]/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>584968aa-c07c-40b2-b981-a4a03a7bbddc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mx-1 glph-icon flaticon-loupe </value>
+      <webElementGuid>a5685b68-d754-42a0-bfc1-3b7baf24e44a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;site-header&quot;)/div[@class=&quot;masthead&quot;]/div[@class=&quot;bg-white border-bottom&quot;]/div[@class=&quot;container pt-3 pb-2 pt-lg-5 pb-lg-5&quot;]/div[@class=&quot;d-flex align-items-center position-relative flex-wrap&quot;]/div[@class=&quot;site-search ml-xl-0 ml-md-auto w-r-100 flex-grow-1 mr-md-5 py-2 py-md-0&quot;]/form[@class=&quot;form-inline my-2 my-xl-0&quot;]/div[@class=&quot;input-group w-100&quot;]/div[@class=&quot;input-group-append border-left&quot;]/button[@class=&quot;btn btn-primary px-3 rounded-0&quot;]/i[@class=&quot;mx-1 glph-icon flaticon-loupe&quot;]</value>
+      <webElementGuid>4443582e-75a0-4698-a6ab-0b5304c49eda</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='site-header']/div/div/div/div/div[2]/form/div/div[2]/button/i</value>
+      <webElementGuid>3aaeaf41-d2ec-43f4-aac0-d384dc5f3937</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>7f669de0-a624-4015-8f97-455e4b42e331</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_btn btn-primary btn-sm</name>
+   <tag></tag>
+   <elementGuidId>9fd4e335-baab-4017-a646-4d1a35377ad0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.btn.btn-primary.btn-sm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Tạo sản phẩm']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>1af7e887-e55b-4581-b93f-66a22fbd2f16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>b1b5ea98-58a4-492a-a776-34c6bbc05933</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Tạo sản phẩm</value>
+      <webElementGuid>80f33408-37e1-417e-903f-e9614f67d64e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-sm</value>
+      <webElementGuid>e39b1916-009b-4188-9765-4439c3f13ad3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrapper&quot;)/div[@class=&quot;container-fluid&quot;]/form[1]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content-header&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row mb-2&quot;]/div[@class=&quot;col-6&quot;]/div[@class=&quot;float-right pt-1&quot;]/input[@class=&quot;btn btn-primary btn-sm&quot;]</value>
+      <webElementGuid>2207bd72-04ae-4b58-b5c5-8d4625010c38</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Tạo sản phẩm']</value>
+      <webElementGuid>13a8d172-eae6-40f3-b485-79c71c15335e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrapper']/div/form/div/section/div/div/div[2]/div/input</value>
+      <webElementGuid>3238f3e3-7529-4792-a3b8-6da081bbbf5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/input</value>
+      <webElementGuid>2006f038-8619-4bb6-9463-89fe3cca5b13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit']</value>
+      <webElementGuid>e0f46c11-56e3-4ec0-91b3-b6c07acbb648</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

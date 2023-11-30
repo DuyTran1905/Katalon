@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_btn btn-primary btn-sm</name>
+   <tag></tag>
+   <elementGuidId>ddc9c6de-9843-4e5b-961b-005abe618630</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>input.btn.btn-primary.btn-sm</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Cập nhật thông tin']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>cbb039db-2341-47ec-8e4c-685bbcabea38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>eea611a0-1fe3-48b1-b57d-716708b6e837</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Cập nhật thông tin</value>
+      <webElementGuid>dad0f6fc-f5f8-47a6-8a67-de1f1ed90525</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-sm</value>
+      <webElementGuid>cec52d4c-f78a-40c8-8ed3-d6e2238f84ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrapper&quot;)/div[@class=&quot;container-fluid&quot;]/form[1]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content-header&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row mb-2&quot;]/div[@class=&quot;col-6&quot;]/div[@class=&quot;float-right pt-1&quot;]/input[@class=&quot;btn btn-primary btn-sm&quot;]</value>
+      <webElementGuid>6dfd2743-4f5e-4a7e-b9f2-e7492560377f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Cập nhật thông tin']</value>
+      <webElementGuid>d413ea4c-774f-45d5-bb0f-856f8eb6c91e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-wrapper']/div/form/div/section/div/div/div[2]/div/input</value>
+      <webElementGuid>237125a6-19b6-4db5-96d1-f0193a451f38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/input</value>
+      <webElementGuid>a024e853-de3e-4baa-a490-1f3ae7b07366</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit']</value>
+      <webElementGuid>154c2acf-dfe6-4d0e-9b19-43d704fb5aff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

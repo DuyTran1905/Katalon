@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Qun l sch</name>
+   <tag></tag>
+   <elementGuidId>080754cb-e237-43f1-97d7-cf81f49d87b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='pagesDropdown'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>231e2323-28af-4ed5-994e-71ba75630191</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link dropdown-toggle</value>
+      <webElementGuid>b1320c9f-966c-4d6a-b1f4-309eb3b126f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>f3e7cf75-bd4d-4b99-9edc-0101ade844a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>pagesDropdown</value>
+      <webElementGuid>93432a18-8371-48b9-af5b-9959065295e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0204a6c6-9329-49f1-bb7c-65b6539978f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>53aa3e4e-b70a-4941-b503-742346bcab39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>fd3b4e71-34af-461b-9ca5-42acf083b261</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>73f58451-c4dd-46fc-81a3-84c3c3d7b675</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    
+                    Quản lí sách
+                </value>
+      <webElementGuid>dca878d9-2af0-437e-932f-6cbe8640e5f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;wrapper&quot;)/ul[@class=&quot;sidebar navbar-nav&quot;]/li[@class=&quot;nav-item dropdown&quot;]/a[@id=&quot;pagesDropdown&quot;]</value>
+      <webElementGuid>3a1a996f-d4cc-4c3d-8499-c77f7f0872d7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//a[@id='pagesDropdown'])[2]</value>
+      <webElementGuid>8a3d14cb-b1f6-4443-a7ba-e9099cbc12b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='wrapper']/ul/li[3]/a</value>
+      <webElementGuid>7f16d65b-d4bf-4884-99d3-dd3b077c7a0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[12]</value>
+      <webElementGuid>038b283a-3a1b-4e13-8718-225390bc2655</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[3]/a</value>
+      <webElementGuid>b7e25d19-b8b1-45bc-bd51-db60268d9af9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and @id = 'pagesDropdown' and (text() = '
+                    
+                    Quản lí sách
+                ' or . = '
+                    
+                    Quản lí sách
+                ')]</value>
+      <webElementGuid>95548b76-56aa-4f62-ade3-b7764b18ab5b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
