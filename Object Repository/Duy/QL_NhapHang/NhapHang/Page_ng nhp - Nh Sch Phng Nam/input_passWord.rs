@@ -3,7 +3,7 @@
    <description></description>
    <name>input_passWord</name>
    <tag></tag>
-   <elementGuidId>36edca7a-69f1-4257-b9c0-64163004f3d0</elementGuidId>
+   <elementGuidId>ba4ee1bf-4b01-47f0-af27-562d1e241fab</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a8638c9c-9050-43f3-9adf-3ecaf712beee</webElementGuid>
+      <webElementGuid>3cb3566d-e047-4652-955f-b0a3a4c24054</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>autofocus</name>
       <type>Main</type>
       <value>autofocus</value>
-      <webElementGuid>19b6fafa-3dd6-4ae8-add1-3c2500fca251</webElementGuid>
+      <webElementGuid>e519bffe-c21e-4101-aa47-395ce9af568e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>ecdf07e3-373b-40e9-9fdc-57678aa4fc5d</webElementGuid>
+      <webElementGuid>4c12f6c5-3325-497b-b34c-5a61d606ddc7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>89fa790b-ebbd-4072-b103-109c6bdaa7e1</webElementGuid>
+      <webElementGuid>2cc54c54-e755-41b4-8ca6-d5a2e6e7c2f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-val-required</name>
       <type>Main</type>
       <value>Mời nhập mật khẩu</value>
-      <webElementGuid>5234fa6d-93e3-4174-afcb-59c3e46e0da4</webElementGuid>
+      <webElementGuid>c7b5adb6-d7c4-41f9-9be9-eece232c39db</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>id</name>
       <type>Main</type>
       <value>inputmk</value>
-      <webElementGuid>8ce1bc64-9716-4ef2-82e4-452ecb26803f</webElementGuid>
+      <webElementGuid>be2b58ba-f84c-4b47-b28a-5d5cb2b43173</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>name</name>
       <type>Main</type>
       <value>passWord</value>
-      <webElementGuid>1ff3357d-2df0-470f-8e74-abbed88296a1</webElementGuid>
+      <webElementGuid>4b8f4f19-b102-40b5-9e60-fd3170aa57bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Mật Khẩu</value>
-      <webElementGuid>7074b568-8489-4394-b181-7cb087f455e4</webElementGuid>
+      <webElementGuid>72230dbd-b2cd-458d-b288-bf2a17e45226</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>e9b1c8c2-ae84-46ec-aed2-ad570131a6e9</webElementGuid>
+      <webElementGuid>bbd64346-c7f8-44b5-91de-85d3c080cead</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;inputmk&quot;)</value>
-      <webElementGuid>8a8bbc81-c74c-425a-b119-3ed36e9b08ae</webElementGuid>
+      <webElementGuid>7ab755a9-f5a4-4c42-99c3-1251ff3cff10</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='inputmk']</value>
-      <webElementGuid>341f0813-239b-4204-b60c-40108317b1b7</webElementGuid>
+      <webElementGuid>d2cc0169-b622-4482-b5f1-5b03a8073359</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/input</value>
-      <webElementGuid>9ebed282-5e2b-43d3-bbe6-594caaa00911</webElementGuid>
+      <webElementGuid>e989c355-0e63-4cf7-bd86-326d0a2ecaa6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'inputmk' and @name = 'passWord' and @placeholder = 'Mật Khẩu' and @type = 'password']</value>
-      <webElementGuid>9a912a65-0e40-4305-bc7b-81a148791e44</webElementGuid>
+      <webElementGuid>b51f584d-b640-4182-b61f-58de655370de</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

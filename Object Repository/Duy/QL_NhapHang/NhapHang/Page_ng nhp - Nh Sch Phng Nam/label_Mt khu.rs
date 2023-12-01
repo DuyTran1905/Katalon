@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div</name>
+   <name>label_Mt khu</name>
    <tag></tag>
-   <elementGuidId>78649d4b-e358-465d-a8ec-c780b3aca7a1</elementGuidId>
+   <elementGuidId>4b61cfd0-cd92-4496-90ba-55cb14654cd9</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[@id='r13']/div/div</value>
+         <value>//div[3]/div/label</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#r13 > div.image > div</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,47 +21,47 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>div</value>
-      <webElementGuid>1515b961-8694-4286-9c17-0deea536a56a</webElementGuid>
+      <value>label</value>
+      <webElementGuid>dd36630e-5e53-47bd-b747-69d127875e89</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>role</name>
+      <name>for</name>
       <type>Main</type>
-      <value>img</value>
-      <webElementGuid>ade40be9-9cb9-4731-aec2-258c1c655de5</webElementGuid>
+      <value>inputmk</value>
+      <webElementGuid>51714355-a95f-4d49-a62b-7aff17b3195f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mật khẩu</value>
+      <webElementGuid>5e5f0442-4d4e-481d-a9f4-f59d27ccb112</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;r13&quot;)/div[@class=&quot;image&quot;]/div[1]</value>
-      <webElementGuid>656e7d97-935c-4fae-9222-850d15c5fab3</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>ref_element</name>
-      <type>Main</type>
-      <value>Object Repository/Duy/QL_Sach/Add/Page_CKFinder 2/iframe_CKFinder</value>
-      <webElementGuid>f8852d1d-259b-4479-9ed8-2cbc850c5ff7</webElementGuid>
+      <value>/html[1]/body[@class=&quot;bg-dark&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;card card-login mx-auto mt-5&quot;]/div[@class=&quot;card-body&quot;]/form[1]/div[@class=&quot;form-group&quot;]/div[@class=&quot;form-label-group&quot;]/label[1]</value>
+      <webElementGuid>f8fe994b-44ef-4f3e-a86f-76d3925ed7fa</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:position</name>
       <type>Main</type>
-      <value>//a[@id='r13']/div/div</value>
-      <webElementGuid>782ab7a5-7553-48dc-a354-59b8dcecd370</webElementGuid>
+      <value>//div[3]/div/label</value>
+      <webElementGuid>090ead68-67b6-4f3d-9caa-31aed17b205f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
+      <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[14]/div/div</value>
-      <webElementGuid>990947ed-d85e-4a9d-a2d0-5a4ac2925c42</webElementGuid>
+      <value>//label[(text() = 'Mật khẩu' or . = 'Mật khẩu')]</value>
+      <webElementGuid>9439b4c3-a9b9-4261-ab55-0ff309920cfe</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

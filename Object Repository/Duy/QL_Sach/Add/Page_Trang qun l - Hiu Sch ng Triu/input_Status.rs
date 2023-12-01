@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Status</name>
    <tag></tag>
-   <elementGuidId>cdcee302-8d6f-4153-8489-fe78b50db7d1</elementGuidId>
+   <elementGuidId>cd9432e8-6cdc-4802-8a0a-2299f1420e4e</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#Status</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='Status']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Status</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>55c7c3ae-d521-41d8-b907-55edf2c66a38</webElementGuid>
+      <webElementGuid>cb34a219-2d9f-4036-9bc4-b07ad9c3a2b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>ef808bbf-332f-4dc0-b2c1-5a9e91fc5ffc</webElementGuid>
+      <webElementGuid>7b2ed4b0-03e4-4e31-9ab4-7f96ce557d9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>e1af6555-ca58-48c2-8fe7-5213560a4993</webElementGuid>
+      <webElementGuid>bff1bbe7-a6f6-446a-8a5b-8a9b2fd59fd9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-val-required</name>
       <type>Main</type>
       <value>The Trạng thái field is required.</value>
-      <webElementGuid>9e9fb484-dc7b-493e-8e02-da62296798e3</webElementGuid>
+      <webElementGuid>74e4fb29-995e-4df5-8144-488c949c72f0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>Status</value>
-      <webElementGuid>447b2348-e26f-41b7-8716-fae0234ac870</webElementGuid>
+      <webElementGuid>60bf193e-1732-4ad3-9331-a2339ca5e09c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Status</value>
-      <webElementGuid>b87f8fda-d94f-4488-bf24-11200bb2dbc6</webElementGuid>
+      <webElementGuid>a272f962-3ed8-48f6-a31f-77c3e9015db2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>934f6114-f979-4fda-94c5-ebfd35fceae9</webElementGuid>
+      <webElementGuid>497d9566-3951-4e6e-9d47-9cf96898130e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>value</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>8d88d485-351e-42b1-a548-cfc8877e06b0</webElementGuid>
+      <webElementGuid>0693c625-3b17-43d8-a7bf-d8e75e14742b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;Status&quot;)</value>
-      <webElementGuid>2a8c7847-f2c1-4a54-a6d3-ce21e933c9d8</webElementGuid>
+      <webElementGuid>9d8e2d16-2d09-4e5f-9161-c27896a68b26</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='Status']</value>
-      <webElementGuid>10ce49cf-0216-4929-9dbb-3dcf31e10850</webElementGuid>
+      <webElementGuid>4a6ab2ce-d9e0-419a-b7bd-b035ce8b33fe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content-wrapper']/div/form/div/div/div/div/div/div[2]/div[6]/div/input</value>
-      <webElementGuid>d0149c5f-7ab6-4f2f-ac29-dd967079406c</webElementGuid>
+      <webElementGuid>851907a7-b46b-48be-9b81-6cfb481a7f26</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/div/input</value>
-      <webElementGuid>98e012de-ebb5-4d1e-9834-daedee896b63</webElementGuid>
+      <webElementGuid>51d77976-0943-4ef9-82c9-0e680b3be8cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'Status' and @name = 'Status' and @type = 'checkbox']</value>
-      <webElementGuid>964fc804-384d-4dc8-8c55-141634db9645</webElementGuid>
+      <webElementGuid>fb186568-c9d8-4a28-bdc1-7ead7abe75fb</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

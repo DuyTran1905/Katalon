@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://localhost:44350/Admin/Login/?AspxAutoDetectCookieSupport=1')
+WebUI.navigateToUrl('https://localhost:44350/Admin/Login/')
 
 WebUI.click(findTestObject('Object Repository/Duy/QL_TheLoai/Delete/Page_ng nhp - Nh Sch Phng Nam/label_Ti Khon'))
 

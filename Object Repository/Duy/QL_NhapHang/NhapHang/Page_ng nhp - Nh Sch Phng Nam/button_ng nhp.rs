@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>iframe_CKFinder</name>
+   <name>button_ng nhp</name>
    <tag></tag>
-   <elementGuidId>f5d21887-7ba1-4e11-ab1f-09e5c0f397bc</elementGuidId>
+   <elementGuidId>e6d9822f-26dc-4aef-93c3-ea50ecf08f9c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//iframe[@name='CKFinder']</value>
+         <value>//button[@type='submit']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>iframe[name=&quot;CKFinder&quot;]</value>
+         <value>button.btn.btn-primary.btn-block</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,79 +21,71 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>iframe</value>
-      <webElementGuid>f400ff69-c0b7-4f92-8ac7-2db9ce01225d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>frameborder</name>
-      <type>Main</type>
-      <value>0</value>
-      <webElementGuid>d4bf1c2f-9e6f-42e2-8513-bc93a83a1e9d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>0</value>
-      <webElementGuid>e7829dee-2e8f-4aa8-b63e-72afb9d2a2cd</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>allowtransparency</name>
-      <type>Main</type>
-      <value>true</value>
-      <webElementGuid>1dddb158-9630-4108-8d5d-ef26d541952e</webElementGuid>
+      <value>button</value>
+      <webElementGuid>bf62a40d-dba4-42e2-bd90-7c734bb058da</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>title</name>
+      <name>type</name>
       <type>Main</type>
-      <value>CKFinder</value>
-      <webElementGuid>31171e32-ca90-4c48-8faa-b7d18dbff0c9</webElementGuid>
+      <value>submit</value>
+      <webElementGuid>8fc3d10d-6d7e-4931-8f72-33777cb1a03b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-block</value>
+      <webElementGuid>6cac82f7-666f-4d03-957f-5cf6b2eafa5e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>name</name>
+      <name>href</name>
       <type>Main</type>
-      <value>CKFinder</value>
-      <webElementGuid>e60ac830-ec51-47ae-818b-901dccda60db</webElementGuid>
+      <value>index.html</value>
+      <webElementGuid>d8117d86-e4bb-41df-bc54-fa4e95556ac6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Đăng nhập</value>
+      <webElementGuid>e1f1fba5-964f-491b-96d6-69f0aa5860ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/iframe[1]</value>
-      <webElementGuid>d357b23e-7f63-4ea8-8b3c-5383f855749f</webElementGuid>
+      <value>/html[1]/body[@class=&quot;bg-dark&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;card card-login mx-auto mt-5&quot;]/div[@class=&quot;card-body&quot;]/form[1]/button[@class=&quot;btn btn-primary btn-block&quot;]</value>
+      <webElementGuid>4535441a-e897-4696-b8c5-11dc150e2124</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//iframe[@name='CKFinder']</value>
-      <webElementGuid>d45c3994-692c-43b4-a536-d7acf38cf3aa</webElementGuid>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>1a6a29b2-aa1c-48e4-994c-343374084d4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//iframe</value>
-      <webElementGuid>2d4e0851-c464-48a6-94ab-6ecd8960ee4e</webElementGuid>
+      <value>//button</value>
+      <webElementGuid>e65fabcf-a0c5-4327-b0f8-bf2d58ce17d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//iframe[@title = 'CKFinder' and @name = 'CKFinder']</value>
-      <webElementGuid>321e9dd7-bbd3-49dc-a416-922530f2fca3</webElementGuid>
+      <value>//button[@type = 'submit' and @href = 'index.html' and (text() = 'Đăng nhập' or . = 'Đăng nhập')]</value>
+      <webElementGuid>75afe390-6118-4eea-a9ec-0289fb8bf12e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

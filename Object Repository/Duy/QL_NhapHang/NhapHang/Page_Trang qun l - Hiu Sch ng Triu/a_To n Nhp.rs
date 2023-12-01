@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Danh sch sn phm</name>
+   <name>a_To n Nhp</name>
    <tag></tag>
-   <elementGuidId>41f7e813-4652-4089-a567-43ed64ed3c11</elementGuidId>
+   <elementGuidId>64924cb5-a601-4539-98a9-0e6f86ae9fc9</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='wrapper']/ul/li[3]/div/a</value>
+         <value>//div[@id='wrapper']/ul/li[4]/div/a</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>div.dropdown-menu.show > a.dropdown-item</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,31 +22,31 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>681165ad-e39c-4a69-8b22-007001093e34</webElementGuid>
+      <webElementGuid>35ca8440-2c3a-45b3-ab63-dc25c26abe8e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>dropdown-item </value>
-      <webElementGuid>51092113-0d86-49c3-b5fa-3c3ed3947cdd</webElementGuid>
+      <value>dropdown-item</value>
+      <webElementGuid>d77008df-dcf0-464e-9f52-27e217a859f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/Admin/SanPham/Index</value>
-      <webElementGuid>ba755344-9eb6-4791-9341-17ff9ebe6b04</webElementGuid>
+      <value>/Admin/SanPham/TaoDon</value>
+      <webElementGuid>699cd046-00f1-49c1-b0bd-281bab8416d9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Danh sách sản phẩm</value>
-      <webElementGuid>0f425adf-104b-4872-921a-8062cfab397a</webElementGuid>
+      <value>Tạo Đơn Nhập</value>
+      <webElementGuid>af6b2dd2-4c43-4dd4-ba1b-67ca74cc2ea7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,46 +54,46 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;wrapper&quot;)/ul[@class=&quot;sidebar navbar-nav&quot;]/li[@class=&quot;nav-item dropdown show&quot;]/div[@class=&quot;dropdown-menu show&quot;]/a[@class=&quot;dropdown-item&quot;]</value>
-      <webElementGuid>e1ed9cc9-6b66-44be-a706-547f8b7a0f88</webElementGuid>
+      <webElementGuid>f3a9cd4d-b4b1-4c69-bb71-a5b02b20180e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='wrapper']/ul/li[3]/div/a</value>
-      <webElementGuid>20c6e480-7652-48b3-9d7e-e5b2926c79fa</webElementGuid>
+      <value>//div[@id='wrapper']/ul/li[4]/div/a</value>
+      <webElementGuid>4240c846-1563-44be-b846-d8e1f7d66a93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Danh sách sản phẩm')]</value>
-      <webElementGuid>cfb22d61-10a9-4662-bb58-f6e1f4a17869</webElementGuid>
+      <value>//a[contains(text(),'Tạo Đơn Nhập')]</value>
+      <webElementGuid>f3eafd50-d389-4f0b-a168-d0bcf4a20d67</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, '/Admin/SanPham/Index')]</value>
-      <webElementGuid>bf652c3e-33cb-4873-a3aa-f98dd0d3761f</webElementGuid>
+      <value>//a[contains(@href, '/Admin/SanPham/TaoDon')]</value>
+      <webElementGuid>0f5eaeb1-c96e-4f0e-a283-2227911de160</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/ul/li[3]/div/a</value>
-      <webElementGuid>eabb1448-223c-4350-a7f4-566ea192df85</webElementGuid>
+      <value>//li[4]/div/a</value>
+      <webElementGuid>a8fe7856-4c80-4bc3-ac28-1cbf2a835d08</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/Admin/SanPham/Index' and (text() = 'Danh sách sản phẩm' or . = 'Danh sách sản phẩm')]</value>
-      <webElementGuid>272a9b6f-72e7-4765-aa6d-32a0522ca216</webElementGuid>
+      <value>//a[@href = '/Admin/SanPham/TaoDon' and (text() = 'Tạo Đơn Nhập' or . = 'Tạo Đơn Nhập')]</value>
+      <webElementGuid>704ccb73-572e-4d37-9925-dd9b0315c284</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

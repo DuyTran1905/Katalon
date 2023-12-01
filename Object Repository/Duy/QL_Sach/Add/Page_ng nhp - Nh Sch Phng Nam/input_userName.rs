@@ -3,15 +3,15 @@
    <description></description>
    <name>input_userName</name>
    <tag></tag>
-   <elementGuidId>4f6d31db-e7a0-4882-91e5-d8565890b009</elementGuidId>
+   <elementGuidId>427df666-d717-422b-a23a-ed13d1ad4d55</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#inputTK</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='inputTK']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#inputTK</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>3b6567aa-81b8-4330-a303-e88cb7fe29aa</webElementGuid>
+      <webElementGuid>cf0df8bf-bdc1-4681-b823-f35939fa9ba4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>autofocus</name>
       <type>Main</type>
       <value>autofocus</value>
-      <webElementGuid>3b8be9f7-df6c-4bbb-a820-a21ef5e7785b</webElementGuid>
+      <webElementGuid>b4c9820c-602c-445d-9e35-beff224b5b27</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>f6734ce4-aae8-4890-b9e8-11786aa8c5fc</webElementGuid>
+      <webElementGuid>644a98dc-d6cf-444d-bf8a-08111178a400</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>48b8e836-5e7d-46c3-9556-d9ffa0f4fe6f</webElementGuid>
+      <webElementGuid>c344dfc1-3ef9-41d3-ab52-486358ea9993</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-val-required</name>
       <type>Main</type>
       <value>Mời nhập tài khoản</value>
-      <webElementGuid>ac0c92a3-3278-4152-9838-96a73be4bbb7</webElementGuid>
+      <webElementGuid>92b25c5b-d70d-4139-b18a-ab413134bd7e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>id</name>
       <type>Main</type>
       <value>inputTK</value>
-      <webElementGuid>4348bcb1-0cbd-489f-b6c1-48b729264e50</webElementGuid>
+      <webElementGuid>0f92b6d4-427e-41f4-a1fd-5c8625bd086d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>name</name>
       <type>Main</type>
       <value>userName</value>
-      <webElementGuid>d7bc0e23-acc3-45ad-beb4-60161fbeb942</webElementGuid>
+      <webElementGuid>95b42b99-5cb1-4461-b03f-03db6758c9b4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Tài Khoản</value>
-      <webElementGuid>a567134b-e954-48d5-a074-5ff6b562efdb</webElementGuid>
+      <webElementGuid>fae33eea-3057-4446-9990-ef22bf0e3eea</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>901e180b-392c-4657-9ea5-ba85e89f3c8a</webElementGuid>
+      <webElementGuid>ba4b8c45-88bd-49a8-8db0-e5e94f7f745a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;inputTK&quot;)</value>
-      <webElementGuid>9b2dbf96-7241-4db1-afa6-197ccac558d7</webElementGuid>
+      <webElementGuid>31902aed-f4a0-4aef-bb8f-93668b2700c1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='inputTK']</value>
-      <webElementGuid>fb2d3c2f-c4bc-4969-9e52-ddd80e5a8fc4</webElementGuid>
+      <webElementGuid>7cbd27b4-66d8-4d09-a98f-6a1a60965732</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>8dc169c8-fc59-4c7f-bd71-18429aea7c2a</webElementGuid>
+      <webElementGuid>2f89d3e2-1a2d-494e-a5eb-da9cd2f07eaa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'inputTK' and @name = 'userName' and @placeholder = 'Tài Khoản' and @type = 'text']</value>
-      <webElementGuid>1a5bc815-295e-49ad-84a7-578a0ea90e68</webElementGuid>
+      <webElementGuid>978be640-492c-442c-bff7-a9e25d96c19e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

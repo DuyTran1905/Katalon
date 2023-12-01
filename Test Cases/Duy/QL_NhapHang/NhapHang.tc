@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Tìm Kiếm</name>
+   <name>NhapHang</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>e5aa9daf-65ab-47ad-8518-b1762996540b</testCaseGuid>
+   <testCaseGuid>fd0e5068-26fd-4a76-8538-fc69c9f9d08b</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>a24bc338-243e-4e6e-9b32-174088620094</variableId>
+      <variableId>3d6fe2fb-dc93-4de1-9425-7fa3e7d4717d</variableId>
    </variableLinks>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>a24bc338-243e-4e6e-9b32-174088620094</id>
+      <id>3d6fe2fb-dc93-4de1-9425-7fa3e7d4717d</id>
       <masked>false</masked>
-      <name>DATA</name>
+      <name>Data</name>
    </variable>
 </TestCaseEntity>

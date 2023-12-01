@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Name</name>
    <tag></tag>
-   <elementGuidId>b354a299-39f1-448a-945e-91c9fe94c07e</elementGuidId>
+   <elementGuidId>6531e822-9245-40dc-b090-1e8543dad213</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#Name</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='Name']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#Name</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>c8acb403-ad75-44ab-8dbb-2f02ebc3bde7</webElementGuid>
+      <webElementGuid>a1508206-a983-4cf1-9338-dc796cc44727</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control text-box single-line</value>
-      <webElementGuid>c34b9fe4-14f2-401c-badb-44be764bb445</webElementGuid>
+      <webElementGuid>b44048e0-2b6b-4d57-8f4e-76f04cb1a4ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>b31141e9-065a-425f-80d0-ac2df0492570</webElementGuid>
+      <webElementGuid>b657a60a-36d3-4198-86aa-028c6d9abf0d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-val-length</name>
       <type>Main</type>
       <value>The field Tên sách must be a string with a maximum length of 250.</value>
-      <webElementGuid>970a3845-a4c5-479d-a59d-2191788f88a7</webElementGuid>
+      <webElementGuid>c32a97b0-ec9f-4ae6-84c6-f32dedd56128</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-val-length-max</name>
       <type>Main</type>
       <value>250</value>
-      <webElementGuid>217a2e40-173a-483b-8b55-e8f11c3b10c3</webElementGuid>
+      <webElementGuid>89d2ab7f-dcad-4d5a-a70d-55befbcfd8f3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-val-required</name>
       <type>Main</type>
       <value>The Tên sách field is required.</value>
-      <webElementGuid>67b095e1-4f35-46a0-8a32-3cba0686e119</webElementGuid>
+      <webElementGuid>40c2e3c2-ebcc-4933-b6fc-b308585bf20d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>id</name>
       <type>Main</type>
       <value>Name</value>
-      <webElementGuid>3d37a4b6-dbd0-4aae-b5a8-f3d3fcb46ac5</webElementGuid>
+      <webElementGuid>5185c6b4-5f32-4a0d-9a15-941ce4c618fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>name</name>
       <type>Main</type>
       <value>Name</value>
-      <webElementGuid>347394cf-1e92-40d8-9ff8-facda35bd10c</webElementGuid>
+      <webElementGuid>431e8bd6-63a0-4f78-b6f1-c86c95b209e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>b0c249c7-0005-45ee-bf09-c55c86c60028</webElementGuid>
+      <webElementGuid>2ca6854c-5e75-45b4-b86a-d88ebb89c23d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;Name&quot;)</value>
-      <webElementGuid>69529f2f-bd27-47aa-b892-36d854fdf541</webElementGuid>
+      <webElementGuid>cdab21f0-1e9b-4cb8-922f-b07e57fe29b9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='Name']</value>
-      <webElementGuid>fe9273da-24e6-488c-bb5f-79a8f9bb2025</webElementGuid>
+      <webElementGuid>31e210a6-cea3-471c-be58-0eaf4b12a958</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content-wrapper']/div/form/div/div/div/div/div/div/div[2]/div/input</value>
-      <webElementGuid>8e7eed27-e4dc-40b4-8ded-9c1425b6eea3</webElementGuid>
+      <webElementGuid>1f67f960-3e84-4f86-a289-c11a71b63877</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/div[2]/div/input</value>
-      <webElementGuid>fe7d6fe1-0635-471e-96e0-33e88ca8f52a</webElementGuid>
+      <webElementGuid>3145ee5d-e325-493b-bda9-539059ccb430</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'Name' and @name = 'Name' and @type = 'text']</value>
-      <webElementGuid>4dca5fe5-fc7a-4b5b-8597-57b53254afc0</webElementGuid>
+      <webElementGuid>4304f73b-c920-4d94-bdc2-f649f0d542e8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

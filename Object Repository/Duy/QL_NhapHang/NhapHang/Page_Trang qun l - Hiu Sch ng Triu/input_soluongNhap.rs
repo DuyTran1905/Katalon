@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_btn btn-primary btn-sm</name>
+   <name>input_soluongNhap</name>
    <tag></tag>
-   <elementGuidId>941fc9ba-0265-4a46-966e-741566a2177a</elementGuidId>
+   <elementGuidId>d393ab88-c81b-4b06-ae5a-4f3de17a7e7b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@value='Tạo sản phẩm']</value>
+         <value>//input[@name='soluongNhap']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>input.btn.btn-primary.btn-sm</value>
+         <value>input[name=&quot;soluongNhap&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,70 +22,70 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a9445e13-8e4a-4a54-85b9-4e7c096db14c</webElementGuid>
+      <webElementGuid>56da1d58-396a-4802-93b6-9276fd79cdcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>soluongNhap</value>
+      <webElementGuid>a4457242-3454-4a39-9fe0-284638eed44f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>5e1fce79-34bf-45f5-97dc-42ccc5ca958b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>value</name>
-      <type>Main</type>
-      <value>Tạo sản phẩm</value>
-      <webElementGuid>051e2557-de00-4c1f-ad9c-1534eb5c10a5</webElementGuid>
+      <value>number</value>
+      <webElementGuid>9548c0db-3f08-4dbe-bee1-3e7f7fa257a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>btn btn-primary btn-sm</value>
-      <webElementGuid>bcbc5068-39e3-4e68-aaf2-7d7196443444</webElementGuid>
+      <value>form-control</value>
+      <webElementGuid>cf0f8fae-3ed9-458a-b794-50605f3b7844</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;content-wrapper&quot;)/div[@class=&quot;container-fluid&quot;]/form[1]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content-header&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row mb-2&quot;]/div[@class=&quot;col-6&quot;]/div[@class=&quot;float-right pt-1&quot;]/input[@class=&quot;btn btn-primary btn-sm&quot;]</value>
-      <webElementGuid>0c376f11-47e0-4ba2-93c5-b881a011b8d3</webElementGuid>
+      <value>id(&quot;content-wrapper&quot;)/div[@class=&quot;container-fluid&quot;]/form[1]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-header&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-9&quot;]/div[@class=&quot;form-group&quot;]/div[1]/input[@class=&quot;form-control&quot;]</value>
+      <webElementGuid>41c4348b-2420-4000-a471-a1274676b865</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@value='Tạo sản phẩm']</value>
-      <webElementGuid>5324ae6d-f8be-4668-b0cb-9d3c4d82325b</webElementGuid>
+      <value>//input[@name='soluongNhap']</value>
+      <webElementGuid>db920523-4164-499c-8c06-370397678a99</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='content-wrapper']/div/form/div/section/div/div/div[2]/div/input</value>
-      <webElementGuid>9593a2da-11c5-4bbe-8f8f-368fe5a36fa9</webElementGuid>
+      <value>//div[@id='content-wrapper']/div/form/div/div/div/div/div/div/div[6]/div/input</value>
+      <webElementGuid>ca8a2b59-b13f-4f26-b689-eb2e580d2ccb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/input</value>
-      <webElementGuid>5c0e4c4d-1a4f-436c-9e81-42d4302cf3fa</webElementGuid>
+      <value>//div[6]/div/input</value>
+      <webElementGuid>b89faf9b-46dd-43f9-8019-6b47d186cf46</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'submit']</value>
-      <webElementGuid>4d98fbf1-c5ec-4030-b0d6-69e1107a25a4</webElementGuid>
+      <value>//input[@name = 'soluongNhap' and @type = 'number']</value>
+      <webElementGuid>15ac9ed3-60cc-482a-9aa5-247529a971e9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_PriceSale</name>
+   <name>input_Images</name>
    <tag></tag>
-   <elementGuidId>bbfa31a7-dadc-4274-af3e-e648f6094c8f</elementGuidId>
+   <elementGuidId>5d69176a-31ce-452a-8b6d-b3902f5cb41a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='PriceSale']</value>
+         <value>//input[@id='txtImage']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#PriceSale</value>
+         <value>#txtImage</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,94 +22,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>1a7af958-19c2-458a-a8f3-0a079ed3f74c</webElementGuid>
+      <webElementGuid>77e533b7-a7f2-4535-b0e5-10de2a5937eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>class</name>
+      <name>htmlattributes</name>
       <type>Main</type>
-      <value>form-control text-box single-line</value>
-      <webElementGuid>7220582d-7147-4fc3-a3c7-3a5e6e717ce3</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-val</name>
-      <type>Main</type>
-      <value>true</value>
-      <webElementGuid>185ee844-0877-400f-8134-e914fc7b4c29</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-val-number</name>
-      <type>Main</type>
-      <value>The field Giá Khuyến Mại must be a number.</value>
-      <webElementGuid>b180a29b-d44f-40c7-99d0-5d9642b19ad3</webElementGuid>
+      <value>{ class = form-control, id = txtImage }</value>
+      <webElementGuid>72e7ab44-32ea-4794-b8cf-3fbba69591d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>PriceSale</value>
-      <webElementGuid>b768d7ae-9fe0-4216-be5b-eb4d6fab8503</webElementGuid>
+      <value>txtImage</value>
+      <webElementGuid>73830227-5500-4467-95bb-48fa3b5d7024</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>PriceSale</value>
-      <webElementGuid>d4316441-3ab0-4361-a677-f9e3a439a1bf</webElementGuid>
+      <value>Images</value>
+      <webElementGuid>f6d66a04-2a17-4396-b791-f1101eb7e369</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>number</value>
-      <webElementGuid>d9d79fe6-4221-48a6-b26c-bfbcf52660c7</webElementGuid>
+      <value>text</value>
+      <webElementGuid>02ec9abd-5324-4dba-8bd0-837d082e8ef2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;PriceSale&quot;)</value>
-      <webElementGuid>c57afa3a-eb67-449d-a1d0-9141045dd0a8</webElementGuid>
+      <value>id(&quot;txtImage&quot;)</value>
+      <webElementGuid>8e0e696d-d3a6-4230-9f14-81bf2f09625c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='PriceSale']</value>
-      <webElementGuid>54460ee8-ce6c-4321-a47e-919ce8279a2f</webElementGuid>
+      <value>//input[@id='txtImage']</value>
+      <webElementGuid>55713b10-609f-4bbe-9102-77eb583b13f7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='content-wrapper']/div/form/div/div/div/div/div/div[2]/div[3]/div/input</value>
-      <webElementGuid>246bd162-1eaa-4b67-bae3-a81417d709b9</webElementGuid>
+      <value>//div[@id='content-wrapper']/div/form/div/div/div/div/div/div[2]/div[4]/div/input</value>
+      <webElementGuid>715c8315-f70c-484c-8e15-1744bf254f29</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div[3]/div/input</value>
-      <webElementGuid>e2dabab2-9bd5-4a81-9d21-369105c941be</webElementGuid>
+      <value>//div[2]/div[4]/div/input</value>
+      <webElementGuid>6863e655-78fe-45b7-95de-216e8e5db4bb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'PriceSale' and @name = 'PriceSale' and @type = 'number']</value>
-      <webElementGuid>6c60f99b-18cb-4ff9-a906-73ae4113d31e</webElementGuid>
+      <value>//input[@id = 'txtImage' and @name = 'Images' and @type = 'text']</value>
+      <webElementGuid>7a657ea0-8884-4f8e-be21-66de3c627f54</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

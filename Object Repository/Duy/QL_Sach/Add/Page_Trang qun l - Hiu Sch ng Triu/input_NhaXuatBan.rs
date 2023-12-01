@@ -3,15 +3,15 @@
    <description></description>
    <name>input_NhaXuatBan</name>
    <tag></tag>
-   <elementGuidId>cfbeedf1-9655-4323-a3c0-ed9ff8bc6503</elementGuidId>
+   <elementGuidId>5896b7a8-58ed-4dac-866e-524b5dd9525b</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#NhaXuatBan</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='NhaXuatBan']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#NhaXuatBan</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>288d4ec4-8a83-4840-ab14-ddaac20ceb21</webElementGuid>
+      <webElementGuid>5f97134b-6b45-4cd7-ba48-e3a2ff3d28c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control text-box single-line</value>
-      <webElementGuid>1393ad9f-cbae-41a9-b71f-9f099e64c029</webElementGuid>
+      <webElementGuid>722e808b-1d37-482a-af23-49c63c376380</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>ba1727a9-4921-46bd-acc2-93c862c8bfaf</webElementGuid>
+      <webElementGuid>11acf1ec-47f2-4ca6-8d35-2e5b1aa39ad4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-val-length</name>
       <type>Main</type>
       <value>The field Nhà xuất bản must be a string with a maximum length of 50.</value>
-      <webElementGuid>4930313d-e5f4-4e27-8cff-73a06fddb0fc</webElementGuid>
+      <webElementGuid>b28d157c-c6fb-4838-867b-919f44f8ddfa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-val-length-max</name>
       <type>Main</type>
       <value>50</value>
-      <webElementGuid>f97dfc7c-418f-4270-8b3d-5d7a37f1e5e5</webElementGuid>
+      <webElementGuid>8b9ab506-8047-484f-8187-977cae53163e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-val-required</name>
       <type>Main</type>
       <value>The Nhà xuất bản field is required.</value>
-      <webElementGuid>781be15f-b6e5-46eb-bea5-6d7554d3b348</webElementGuid>
+      <webElementGuid>b12c2038-082c-4161-8e27-c23bc2251d81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>id</name>
       <type>Main</type>
       <value>NhaXuatBan</value>
-      <webElementGuid>ac8a8811-9538-4025-af3d-0529e114ea31</webElementGuid>
+      <webElementGuid>4cc15ba6-682d-45eb-a562-c9144a860fd6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>name</name>
       <type>Main</type>
       <value>NhaXuatBan</value>
-      <webElementGuid>a61d9e06-008c-48a6-ad18-6891b1ec3750</webElementGuid>
+      <webElementGuid>ed1592ba-61db-4741-9b4f-a897249a2656</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>83eff56f-18ba-4c63-8bb1-cf358695051b</webElementGuid>
+      <webElementGuid>7bd9e616-997b-4b20-8f01-cd30c8828447</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;NhaXuatBan&quot;)</value>
-      <webElementGuid>99891577-8032-45ad-b842-cb05ff34cc97</webElementGuid>
+      <webElementGuid>ab411220-ea23-4f8a-ad0b-50f57d52d30d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='NhaXuatBan']</value>
-      <webElementGuid>14417708-e391-404f-9735-873492f3ce37</webElementGuid>
+      <webElementGuid>f7f9a305-017f-4529-9e35-43cd7544d1c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content-wrapper']/div/form/div/div/div/div/div/div/div[4]/div/input</value>
-      <webElementGuid>7eed534f-12cb-4291-990e-237045bc2b45</webElementGuid>
+      <webElementGuid>3654f0c8-673d-46ce-a158-f596d8336057</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/input</value>
-      <webElementGuid>0aba362a-75d2-406b-82bc-f3953d9fb4fb</webElementGuid>
+      <webElementGuid>fbf5238a-afdd-4203-bbac-9d08dd769f77</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'NhaXuatBan' and @name = 'NhaXuatBan' and @type = 'text']</value>
-      <webElementGuid>0e4aaf99-ef51-4b6b-832b-986b3bf4d683</webElementGuid>
+      <webElementGuid>b5174e34-a669-470f-ad9d-6b6c618f1c41</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

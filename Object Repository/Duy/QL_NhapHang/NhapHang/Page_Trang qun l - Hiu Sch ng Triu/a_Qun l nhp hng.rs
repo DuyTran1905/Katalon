@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Qun l sch</name>
+   <name>a_Qun l nhp hng</name>
    <tag></tag>
-   <elementGuidId>c2d8eb33-b9b6-4456-af21-b43dd07238dc</elementGuidId>
+   <elementGuidId>a05d6974-e5e8-417a-90b3-921210fd7f7f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//a[@id='pagesDropdown'])[2]</value>
+         <value>(//a[@id='pagesDropdown'])[3]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>4b1b91c3-db8d-43f1-adce-425bc07604d6</webElementGuid>
+      <webElementGuid>122b3f56-585b-4532-aba1-21c76942f24b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-link dropdown-toggle</value>
-      <webElementGuid>1ab82057-bb8d-417e-9413-69f65f158070</webElementGuid>
+      <webElementGuid>f93c0dc7-2425-48ff-92ee-9063b1afacb0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>00f25477-b4b8-41f0-bf4a-26359b31b13e</webElementGuid>
+      <webElementGuid>ea5bd779-38ad-46aa-b742-25340067e40d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>pagesDropdown</value>
-      <webElementGuid>f37590d1-e0a7-4360-b50c-7c22d2572db6</webElementGuid>
+      <webElementGuid>f5ad8a78-bb0e-4e74-85db-98a1b1822500</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>51421f9e-1d18-448c-b9cf-0faa18e63f20</webElementGuid>
+      <webElementGuid>6d2b77bd-f2d0-43e2-884b-3ebd7ccc91fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-toggle</name>
       <type>Main</type>
       <value>dropdown</value>
-      <webElementGuid>98a569a6-cc74-42a6-a810-66b476f0b4b3</webElementGuid>
+      <webElementGuid>53a69573-b891-4165-9c1f-0eb267912e96</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>0d7e075d-1061-499f-9733-3caeb25ccb4a</webElementGuid>
+      <webElementGuid>35b062bd-c7d2-4ad9-8bfb-09959a810613</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>1de96101-dcd0-4463-b273-83f27fc03b63</webElementGuid>
+      <webElementGuid>ec193b70-e61f-4fc2-9236-b808c0cc3025</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -87,9 +87,9 @@
       <type>Main</type>
       <value>
                     
-                    Quản lí sách
+                    Quản lí nhập hàng
                 </value>
-      <webElementGuid>7cdf45aa-ba77-43e9-825d-a7cd69fa1ed5</webElementGuid>
+      <webElementGuid>045d00e2-4458-42f3-8acf-7786ea249fb6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -97,39 +97,39 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;wrapper&quot;)/ul[@class=&quot;sidebar navbar-nav&quot;]/li[@class=&quot;nav-item dropdown&quot;]/a[@id=&quot;pagesDropdown&quot;]</value>
-      <webElementGuid>65e42f22-bed4-4e3c-8702-f3685704d392</webElementGuid>
+      <webElementGuid>8c39d3d5-0611-402d-816c-c4b60e89b241</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//a[@id='pagesDropdown'])[2]</value>
-      <webElementGuid>86af2339-b93f-47a8-9721-c695a774ceb0</webElementGuid>
+      <value>(//a[@id='pagesDropdown'])[3]</value>
+      <webElementGuid>c41da11b-68dc-4877-b1ae-64e2bd149874</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='wrapper']/ul/li[3]/a</value>
-      <webElementGuid>bb8cec20-da78-40d7-8bfb-0b47f50c60ec</webElementGuid>
+      <value>//div[@id='wrapper']/ul/li[4]/a</value>
+      <webElementGuid>d0e07225-ed64-4b49-a089-3c5a1e330393</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>(//a[contains(@href, '#')])[12]</value>
-      <webElementGuid>71a11a24-dcf1-4f6f-bcbf-93dd21f8e8f5</webElementGuid>
+      <value>(//a[contains(@href, '#')])[13]</value>
+      <webElementGuid>9e2475cd-9fdd-4701-95ba-3e8ebee024af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/ul/li[3]/a</value>
-      <webElementGuid>a28a2dd6-9073-474b-8712-5117af838be3</webElementGuid>
+      <value>//li[4]/a</value>
+      <webElementGuid>b289794a-fdeb-4a24-b685-2acfecef7a81</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -138,11 +138,11 @@
       <type>Main</type>
       <value>//a[@href = '#' and @id = 'pagesDropdown' and (text() = '
                     
-                    Quản lí sách
+                    Quản lí nhập hàng
                 ' or . = '
                     
-                    Quản lí sách
+                    Quản lí nhập hàng
                 ')]</value>
-      <webElementGuid>644c512e-cf21-4ec3-9f18-79823f82c114</webElementGuid>
+      <webElementGuid>d405eb8d-7d99-47ec-97b2-ac49fb447cad</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

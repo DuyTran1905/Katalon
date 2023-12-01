@@ -3,11 +3,11 @@
    <description></description>
    <name>input_btn btn-primary btn-sm</name>
    <tag></tag>
-   <elementGuidId>941fc9ba-0265-4a46-966e-741566a2177a</elementGuidId>
+   <elementGuidId>3ec8c606-b0ec-498e-8ea9-35a44b75bad1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@value='Tạo sản phẩm']</value>
+         <value>//input[@value='Tạo đơn nhập']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a9445e13-8e4a-4a54-85b9-4e7c096db14c</webElementGuid>
+      <webElementGuid>e06d0e03-1b02-404c-9bc8-23b0f34748dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,15 +30,15 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>5e1fce79-34bf-45f5-97dc-42ccc5ca958b</webElementGuid>
+      <webElementGuid>03a53b54-e9b9-493a-938b-01c99158bbc6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>value</name>
       <type>Main</type>
-      <value>Tạo sản phẩm</value>
-      <webElementGuid>051e2557-de00-4c1f-ad9c-1534eb5c10a5</webElementGuid>
+      <value>Tạo đơn nhập</value>
+      <webElementGuid>9ca3b12f-1ae2-40c4-a0a5-1e186e831bca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary btn-sm</value>
-      <webElementGuid>bcbc5068-39e3-4e68-aaf2-7d7196443444</webElementGuid>
+      <webElementGuid>11e186ce-fa1e-4d76-9849-1974752e5a7d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,15 +54,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;content-wrapper&quot;)/div[@class=&quot;container-fluid&quot;]/form[1]/div[@class=&quot;content-wrapper&quot;]/section[@class=&quot;content-header&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row mb-2&quot;]/div[@class=&quot;col-6&quot;]/div[@class=&quot;float-right pt-1&quot;]/input[@class=&quot;btn btn-primary btn-sm&quot;]</value>
-      <webElementGuid>0c376f11-47e0-4ba2-93c5-b881a011b8d3</webElementGuid>
+      <webElementGuid>fe9a0ebe-95a7-4802-8664-c6e5cb50f10d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@value='Tạo sản phẩm']</value>
-      <webElementGuid>5324ae6d-f8be-4668-b0cb-9d3c4d82325b</webElementGuid>
+      <value>//input[@value='Tạo đơn nhập']</value>
+      <webElementGuid>2e87fde3-80f6-4212-b5d9-da632db816d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content-wrapper']/div/form/div/section/div/div/div[2]/div/input</value>
-      <webElementGuid>9593a2da-11c5-4bbe-8f8f-368fe5a36fa9</webElementGuid>
+      <webElementGuid>01f89bfe-9a79-4330-b9d8-697ccb9a9490</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/input</value>
-      <webElementGuid>5c0e4c4d-1a4f-436c-9e81-42d4302cf3fa</webElementGuid>
+      <webElementGuid>44eaec1b-c8c5-483a-b202-4304e3d9ceaa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +86,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'submit']</value>
-      <webElementGuid>4d98fbf1-c5ec-4030-b0d6-69e1107a25a4</webElementGuid>
+      <webElementGuid>095f0359-7809-4f02-9609-e2dc816b9960</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -3,15 +3,15 @@
    <description></description>
    <name>label_Ti Khon</name>
    <tag></tag>
-   <elementGuidId>427e715a-fb9f-496d-82c7-fdfd33c1c93d</elementGuidId>
+   <elementGuidId>cfb2a380-98d6-467c-bc57-6375081c7741</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label</value>
+      </entry>
       <entry>
          <key>CSS</key>
          <value>label</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>5af58d7f-9aec-4a88-b8d8-0cc4800f45f0</webElementGuid>
+      <webElementGuid>9da15fe6-9d7a-491e-afc5-e446bd1403b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>for</name>
       <type>Main</type>
       <value>inputTK</value>
-      <webElementGuid>905fa5c6-47ba-4f94-8152-57fdb9df6b72</webElementGuid>
+      <webElementGuid>b690e8c7-358a-4086-89d2-dd0ef2805de5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Tài Khoản</value>
-      <webElementGuid>e780bd8a-955f-4440-ab00-460db857ec37</webElementGuid>
+      <webElementGuid>214b821f-40ee-4d85-87b5-706a1be79dc5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[@class=&quot;bg-dark&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;card card-login mx-auto mt-5&quot;]/div[@class=&quot;card-body&quot;]/form[1]/div[@class=&quot;form-group&quot;]/div[@class=&quot;form-label-group&quot;]/label[1]</value>
-      <webElementGuid>d8c56937-3d8d-4a09-bae4-e2d527eb6082</webElementGuid>
+      <webElementGuid>302b053c-1ebb-4095-893c-2381bb3edaec</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//label</value>
-      <webElementGuid>46f5a236-d7cd-4a22-b4bf-9a0a8ab159ac</webElementGuid>
+      <webElementGuid>7d2b1920-7b2a-4bd5-b018-8e5bc7bcb186</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,6 +62,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//label[(text() = 'Tài Khoản' or . = 'Tài Khoản')]</value>
-      <webElementGuid>b95f80e0-d354-4ccb-89bc-d9d938612198</webElementGuid>
+      <webElementGuid>c6710174-52b1-4e9b-b322-935a32d4c69a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

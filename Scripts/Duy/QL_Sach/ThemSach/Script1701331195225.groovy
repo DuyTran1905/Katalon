@@ -23,7 +23,10 @@ WebUI.navigateToUrl('https://localhost:44350/Admin/Login/')
 
 WebUI.setText(findTestObject('Object Repository/Duy/QL_Sach/Add/Page_ng nhp - Nh Sch Phng Nam/input_userName'), 'admin1')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Duy/QL_Sach/Add/Page_ng nhp - Nh Sch Phng Nam/input_passWord'), 'iGDxf8hSRT4=')
+WebUI.click(findTestObject('Object Repository/Duy/QL_Sach/Add/Page_ng nhp - Nh Sch Phng Nam/label_Mt khu'))
+
+WebUI.setEncryptedText(findTestObject('Object Repository/Duy/QL_Sach/Add/Page_ng nhp - Nh Sch Phng Nam/input_passWord'), 
+    'iGDxf8hSRT4=')
 
 WebUI.click(findTestObject('Object Repository/Duy/QL_Sach/Add/Page_ng nhp - Nh Sch Phng Nam/button_ng nhp'))
 
@@ -37,11 +40,10 @@ WebUI.setText(findTestObject('Object Repository/Duy/QL_Sach/Add/Page_Trang qun l
 
 WebUI.setText(findTestObject('Object Repository/Duy/QL_Sach/Add/Page_Trang qun l - Hiu Sch ng Triu/input_TacGia'), TacGia)
 
-WebUI.setText(findTestObject('Object Repository/Duy/QL_Sach/Add/Page_Trang qun l - Hiu Sch ng Triu/input_NhaXuatBan'), NXB)
+WebUI.setText(findTestObject('Object Repository/Duy/QL_Sach/Add/Page_Trang qun l - Hiu Sch ng Triu/input_NhaXuatBan'), 
+    NXB)
 
 WebUI.setText(findTestObject('Object Repository/Duy/QL_Sach/Add/Page_Trang qun l - Hiu Sch ng Triu/textarea_Mota'), MoTa)
-
-WebUI.click(findTestObject('Object Repository/Duy/QL_Sach/Add/Page_Trang qun l - Hiu Sch ng Triu/div_Gi Bn ()                               _0ea6bd'))
 
 WebUI.setText(findTestObject('Object Repository/Duy/QL_Sach/Add/Page_Trang qun l - Hiu Sch ng Triu/input_GiaTien'), GiaBan)
 
@@ -49,11 +51,13 @@ WebUI.setText(findTestObject('Object Repository/Duy/QL_Sach/Add/Page_Trang qun l
 
 WebUI.setText(findTestObject('Object Repository/Duy/QL_Sach/Add/Page_Trang qun l - Hiu Sch ng Triu/input_PriceSale'), '0')
 
+WebUI.setText(findTestObject('Object Repository/Duy/QL_Sach/Add/Page_Trang qun l - Hiu Sch ng Triu/input_Images'), '')
+
+WebUI.click(findTestObject('Object Repository/Duy/QL_Sach/Add/Page_Trang qun l - Hiu Sch ng Triu/input_Images'))
+
 WebUI.click(findTestObject('Object Repository/Duy/QL_Sach/Add/Page_Trang qun l - Hiu Sch ng Triu/a_Chn nh'))
 
 WebUI.switchToWindowTitle('CKFinder 2')
-
-WebUI.click(findTestObject('Object Repository/Duy/QL_Sach/Add/Page_CKFinder 2/div'))
 
 WebUI.click(findTestObject('Object Repository/Duy/QL_Sach/Add/Page_CKFinder 2/div'))
 
@@ -63,12 +67,18 @@ WebUI.click(findTestObject('Object Repository/Duy/QL_Sach/Add/Page_CKFinder 2/di
 
 WebUI.doubleClick(findTestObject('Object Repository/Duy/QL_Sach/Add/Page_CKFinder 2/div'))
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/Duy/QL_Sach/Add/Page_Trang qun l - Hiu Sch ng Triu/select_Chn th loiKhoa HcTiu ThuytTr Chi in _bb7f90'), 
-    '1', true)
+WebUI.selectOptionByValue(findTestObject('Object Repository/Duy/QL_Sach/Add/Page_Trang qun l - Hiu Sch ng Triu/select_Chn th loiKhoa HcTiu ThuytTr Chi in _b60fce'), 
+    '24', true)
+
+WebUI.selectOptionByValue(findTestObject('Object Repository/Duy/QL_Sach/Add/Page_Trang qun l - Hiu Sch ng Triu/select_Chn th loiKhoa HcTiu ThuytTr Chi in _b60fce'), 
+    '24', true)
 
 WebUI.click(findTestObject('Object Repository/Duy/QL_Sach/Add/Page_Trang qun l - Hiu Sch ng Triu/input_Status'))
 
 WebUI.click(findTestObject('Object Repository/Duy/QL_Sach/Add/Page_Trang qun l - Hiu Sch ng Triu/input_btn btn-primary btn-sm'))
+
+WebUI.verifyElementText(findTestObject('Object Repository/Duy/QL_Sach/Add/Page_Trang qun l - Hiu Sch ng Triu/span_Thm sch thnh cng'), 
+    'Thêm sách thành công')
 
 WebUI.closeBrowser()
 

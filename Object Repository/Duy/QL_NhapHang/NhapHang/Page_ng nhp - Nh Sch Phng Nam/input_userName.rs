@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_passWord</name>
+   <name>input_userName</name>
    <tag></tag>
-   <elementGuidId>36edca7a-69f1-4257-b9c0-64163004f3d0</elementGuidId>
+   <elementGuidId>d55af764-e8cb-4c88-8c54-269c2995626f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='inputmk']</value>
+         <value>//input[@id='inputTK']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#inputmk</value>
+         <value>#inputTK</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a8638c9c-9050-43f3-9adf-3ecaf712beee</webElementGuid>
+      <webElementGuid>a90f97ce-288c-4f88-9f5f-3bad8e1f7962</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>autofocus</name>
       <type>Main</type>
       <value>autofocus</value>
-      <webElementGuid>19b6fafa-3dd6-4ae8-add1-3c2500fca251</webElementGuid>
+      <webElementGuid>adaff0da-57a6-4326-be1e-21a6608974cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control</value>
-      <webElementGuid>ecdf07e3-373b-40e9-9fdc-57678aa4fc5d</webElementGuid>
+      <webElementGuid>d953ca2d-13bd-4958-b7db-1f9870018624</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,78 +46,78 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>89fa790b-ebbd-4072-b103-109c6bdaa7e1</webElementGuid>
+      <webElementGuid>c9f642c6-7745-48aa-bbc3-41032a4c0cb6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-val-required</name>
       <type>Main</type>
-      <value>Mời nhập mật khẩu</value>
-      <webElementGuid>5234fa6d-93e3-4174-afcb-59c3e46e0da4</webElementGuid>
+      <value>Mời nhập tài khoản</value>
+      <webElementGuid>1a3f1b93-c6c4-4f82-abcc-50dc98f64d30</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>inputmk</value>
-      <webElementGuid>8ce1bc64-9716-4ef2-82e4-452ecb26803f</webElementGuid>
+      <value>inputTK</value>
+      <webElementGuid>92d9f94a-4cf2-4ed5-b87d-7a84f3a01967</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>passWord</value>
-      <webElementGuid>1ff3357d-2df0-470f-8e74-abbed88296a1</webElementGuid>
+      <value>userName</value>
+      <webElementGuid>a00c2a20-76e6-4565-ba4c-111e4bbe4048</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Mật Khẩu</value>
-      <webElementGuid>7074b568-8489-4394-b181-7cb087f455e4</webElementGuid>
+      <value>Tài Khoản</value>
+      <webElementGuid>0377199c-044d-4393-8a8b-499ea35eb5d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>e9b1c8c2-ae84-46ec-aed2-ad570131a6e9</webElementGuid>
+      <value>text</value>
+      <webElementGuid>fb8250a2-cfc0-4b97-9927-79c7205df0ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;inputmk&quot;)</value>
-      <webElementGuid>8a8bbc81-c74c-425a-b119-3ed36e9b08ae</webElementGuid>
+      <value>id(&quot;inputTK&quot;)</value>
+      <webElementGuid>2e9019f5-8254-4d6f-b9dd-f85b20719554</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='inputmk']</value>
-      <webElementGuid>341f0813-239b-4204-b60c-40108317b1b7</webElementGuid>
+      <value>//input[@id='inputTK']</value>
+      <webElementGuid>d036c317-c5ee-4e50-b7c1-6b7c3a436e9d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[3]/div/input</value>
-      <webElementGuid>9ebed282-5e2b-43d3-bbe6-594caaa00911</webElementGuid>
+      <value>//input</value>
+      <webElementGuid>901dccf6-e2fe-4e2c-aa12-9d586001140a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'inputmk' and @name = 'passWord' and @placeholder = 'Mật Khẩu' and @type = 'password']</value>
-      <webElementGuid>9a912a65-0e40-4305-bc7b-81a148791e44</webElementGuid>
+      <value>//input[@id = 'inputTK' and @name = 'userName' and @placeholder = 'Tài Khoản' and @type = 'text']</value>
+      <webElementGuid>5350432b-62ca-4c68-a69f-107a07948ef7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -3,15 +3,15 @@
    <description></description>
    <name>a_Thm sn phm mi</name>
    <tag></tag>
-   <elementGuidId>ddca69f8-5b67-4cc6-b402-09e75f2bb199</elementGuidId>
+   <elementGuidId>00e0e29c-9636-4a67-8b07-ce1814438b0d</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>a.btn.btn-success</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='content-wrapper']/div/form/div/div[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-success</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>97239d4c-bc45-4885-b47a-c1376289bc4c</webElementGuid>
+      <webElementGuid>fd6b327b-2530-4f39-927c-86de31eda8d0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/Admin/Sanpham/Create</value>
-      <webElementGuid>20ce0843-8944-452e-acbb-38a1a370b44e</webElementGuid>
+      <webElementGuid>337aab2c-42bd-44d3-b5f2-e5e4390cff82</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-success</value>
-      <webElementGuid>e99552a8-9cdc-4bb6-ad90-e00f207a5bf8</webElementGuid>
+      <webElementGuid>ca276d56-9efe-4c07-9d9c-cf57d98907d2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Thêm sản phẩm mới</value>
-      <webElementGuid>0624ac94-a76c-48e0-b8f5-baa3f05afe30</webElementGuid>
+      <webElementGuid>52a3188c-44a2-488e-8ba8-fa11b5cc204f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;content-wrapper&quot;)/div[@class=&quot;container-fluid&quot;]/form[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-5&quot;]/a[@class=&quot;btn btn-success&quot;]</value>
-      <webElementGuid>e9ab5b9d-1883-4e98-9b7e-970fc687f379</webElementGuid>
+      <webElementGuid>a0ebe2cd-6151-4aee-9287-84b1ffaf2153</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content-wrapper']/div/form/div/div[2]/a</value>
-      <webElementGuid>0a1e8354-74e6-48ca-a363-7254868ce83e</webElementGuid>
+      <webElementGuid>097ce99a-2b5c-42b5-aff0-16735e0a37b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Thêm sản phẩm mới')]</value>
-      <webElementGuid>2959b9af-3c44-4b66-9e16-2b674a671b3e</webElementGuid>
+      <webElementGuid>f2825aec-d143-4887-b5d0-416541420343</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/Admin/Sanpham/Create')]</value>
-      <webElementGuid>0aeba8e8-6e70-4c3d-bf14-93bc78cd84fe</webElementGuid>
+      <webElementGuid>b5d531d1-7317-4225-80fd-a2ac652112de</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/a</value>
-      <webElementGuid>d84fb6fe-bb3e-4243-8011-6dd1f03f8af3</webElementGuid>
+      <webElementGuid>9bded7d2-b798-4935-a4d0-39365ee540c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/Admin/Sanpham/Create' and (text() = ' Thêm sản phẩm mới' or . = ' Thêm sản phẩm mới')]</value>
-      <webElementGuid>88928b14-e2e7-4eef-80a9-b67c90997ca1</webElementGuid>
+      <webElementGuid>04bfcd22-20d6-4070-af6a-c9bfea80146b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

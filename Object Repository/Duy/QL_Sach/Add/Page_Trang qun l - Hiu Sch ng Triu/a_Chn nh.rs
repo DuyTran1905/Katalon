@@ -3,15 +3,15 @@
    <description></description>
    <name>a_Chn nh</name>
    <tag></tag>
-   <elementGuidId>ea18d331-d947-4c24-8cbf-7d014247dc6c</elementGuidId>
+   <elementGuidId>feb80c06-c577-4631-844a-16ab48e6d723</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#btnSelectImage</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//a[@id='btnSelectImage']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btnSelectImage</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>0b2f4432-ccf2-4b41-86b9-0fd50c332ca2</webElementGuid>
+      <webElementGuid>adf80f98-434a-46fc-b830-2db8539c7a9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>btnSelectImage</value>
-      <webElementGuid>b4501eae-9197-45c9-91c5-d42748eea3e3</webElementGuid>
+      <webElementGuid>7bd6d09c-d3b1-426a-b331-b8af09f60e13</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>#</value>
-      <webElementGuid>47801120-d78e-40c1-93d6-e420d489a55a</webElementGuid>
+      <webElementGuid>9cf74150-c9ba-4522-ada2-4e6202d98d1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Chọn ảnh</value>
-      <webElementGuid>383850fd-d8d7-4c2e-ab57-6673b4c8617c</webElementGuid>
+      <webElementGuid>35e803b2-fddb-42e3-8e46-e98111a470d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;btnSelectImage&quot;)</value>
-      <webElementGuid>3dd81ba8-70de-43fd-ad6a-25f2d9cb1db4</webElementGuid>
+      <webElementGuid>1efa3e2c-2d93-4dc5-ba18-a1079d8891a8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//a[@id='btnSelectImage']</value>
-      <webElementGuid>9056a2aa-f626-4ca0-848c-8bad96fa8e7e</webElementGuid>
+      <webElementGuid>935a04f7-0106-4491-b178-52537ed39cfb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content-wrapper']/div/form/div/div/div/div/div/div[2]/div[4]/div/a</value>
-      <webElementGuid>1eba23ca-9e13-4eab-902d-e13c9fbb538d</webElementGuid>
+      <webElementGuid>7f55c7a7-5884-47ad-a8c8-6998b09c8e9b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Chọn ảnh')]</value>
-      <webElementGuid>81375d16-e7de-4d2c-9b8d-6ed3fadcaf79</webElementGuid>
+      <webElementGuid>17b99711-5ec2-4852-9041-f1470155d648</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '#')])[19]</value>
-      <webElementGuid>cfb2d390-a026-434d-a57f-65b634af0aa9</webElementGuid>
+      <webElementGuid>9f6fe18c-3b60-42e0-bf61-67ab9a1823d1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[4]/div/a</value>
-      <webElementGuid>a9a9db43-5d07-41e2-b0e4-c955e52b68d0</webElementGuid>
+      <webElementGuid>ede45120-ea2e-4d2b-a6ea-c53a9d0341a2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@id = 'btnSelectImage' and @href = '#' and (text() = 'Chọn ảnh' or . = 'Chọn ảnh')]</value>
-      <webElementGuid>c2191f9b-d0b6-4eaa-a945-5a80157b2ee0</webElementGuid>
+      <webElementGuid>816d4a54-286f-4924-a46e-ebb7897260a4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

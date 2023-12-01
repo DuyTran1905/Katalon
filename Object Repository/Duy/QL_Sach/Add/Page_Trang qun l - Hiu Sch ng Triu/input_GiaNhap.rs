@@ -3,15 +3,15 @@
    <description></description>
    <name>input_GiaNhap</name>
    <tag></tag>
-   <elementGuidId>bc23ff9d-ce2f-4e49-b06f-ff910e7707fc</elementGuidId>
+   <elementGuidId>c3921991-c860-4009-84e3-ab6197693fe6</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#GiaNhap</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='GiaNhap']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#GiaNhap</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>42e865e6-a3e6-4288-b2c6-d66f3772fa3d</webElementGuid>
+      <webElementGuid>be5f5233-1b06-4347-9154-9918388da2cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control text-box single-line</value>
-      <webElementGuid>07a58eb3-45e2-4be9-acfd-96982605273a</webElementGuid>
+      <webElementGuid>75d53961-0d59-4ff0-a35b-9f5807579bee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>b913405e-ce27-4579-9c3b-a2075f77c22a</webElementGuid>
+      <webElementGuid>cfa518e2-6535-43e3-a423-f97dfcd11d21</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-val-number</name>
       <type>Main</type>
       <value>The field Giá Nhập must be a number.</value>
-      <webElementGuid>1fa1c802-2dff-4152-b29f-26eb5950e115</webElementGuid>
+      <webElementGuid>f6250b23-70ce-45fa-96cd-d15bb58187c5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>GiaNhap</value>
-      <webElementGuid>77a253b8-8577-4625-9a70-834ea0a989ad</webElementGuid>
+      <webElementGuid>8f6d73b1-d3ad-4e2f-8d9e-8648bd1f184a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>name</name>
       <type>Main</type>
       <value>GiaNhap</value>
-      <webElementGuid>17b55fe8-2ef2-4ab3-aed6-f679dbcb405c</webElementGuid>
+      <webElementGuid>4f29c446-d359-4bd4-b7ae-e5f173910dae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>type</name>
       <type>Main</type>
       <value>number</value>
-      <webElementGuid>79bbfffa-54a1-4057-b87f-3d85064f473b</webElementGuid>
+      <webElementGuid>4b594466-06c1-4cc8-87a3-242df93a282d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;GiaNhap&quot;)</value>
-      <webElementGuid>41b85a7a-39ac-4209-8f05-8b974b5c3362</webElementGuid>
+      <webElementGuid>8afce3be-2807-43fe-8574-03340d90db86</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='GiaNhap']</value>
-      <webElementGuid>58dd9295-6b20-4e4a-9257-550d12583ee6</webElementGuid>
+      <webElementGuid>af445542-eaa4-45c8-bfb6-e55508416fc4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content-wrapper']/div/form/div/div/div/div/div/div[2]/div[2]/div/input</value>
-      <webElementGuid>6e11f875-a620-48fc-b23c-5010314ad15b</webElementGuid>
+      <webElementGuid>3d55b603-890e-4010-9d11-851d9d4e0838</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/div/input</value>
-      <webElementGuid>e713fadd-ad92-45bd-9198-79503ddef615</webElementGuid>
+      <webElementGuid>5c955b18-db24-4142-9d27-8ee835e1cf77</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'GiaNhap' and @name = 'GiaNhap' and @type = 'number']</value>
-      <webElementGuid>5f318200-35ef-44b8-9dab-4c2de365ce93</webElementGuid>
+      <webElementGuid>7a007afe-45e3-430a-ac52-271929cac77d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

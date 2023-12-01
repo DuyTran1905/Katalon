@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>iframe_CKFinder</name>
+   <name>span_Thm sch thnh cng</name>
    <tag></tag>
-   <elementGuidId>f5d21887-7ba1-4e11-ab1f-09e5c0f397bc</elementGuidId>
+   <elementGuidId>66a8564c-f02b-45cb-9fa8-7b5642fae5c8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//iframe[@name='CKFinder']</value>
+         <value>//div[@id='content-wrapper']/div/form/div/div/div/div/div/div/div/span[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>iframe[name=&quot;CKFinder&quot;]</value>
+         <value>span.field-validation-error.text-success</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,79 +21,71 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>iframe</value>
-      <webElementGuid>f400ff69-c0b7-4f92-8ac7-2db9ce01225d</webElementGuid>
+      <value>span</value>
+      <webElementGuid>876b3077-e9db-4ce8-8bb2-087153a3b814</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>frameborder</name>
+      <name>class</name>
       <type>Main</type>
-      <value>0</value>
-      <webElementGuid>d4bf1c2f-9e6f-42e2-8513-bc93a83a1e9d</webElementGuid>
+      <value>field-validation-error text-success</value>
+      <webElementGuid>75f9e29a-f81e-400d-98c3-078d5b6cc669</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
+      <name>data-valmsg-for</name>
       <type>Main</type>
-      <value>0</value>
-      <webElementGuid>e7829dee-2e8f-4aa8-b63e-72afb9d2a2cd</webElementGuid>
+      <value>SanphamSuccess</value>
+      <webElementGuid>9c08aeed-8dd6-40fa-b3be-173cbab991e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>allowtransparency</name>
+      <name>data-valmsg-replace</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>1dddb158-9630-4108-8d5d-ef26d541952e</webElementGuid>
+      <webElementGuid>918d888b-9e02-4f8e-8c5d-6d44b552be95</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>title</name>
+      <name>text</name>
       <type>Main</type>
-      <value>CKFinder</value>
-      <webElementGuid>31171e32-ca90-4c48-8faa-b7d18dbff0c9</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>CKFinder</value>
-      <webElementGuid>e60ac830-ec51-47ae-818b-901dccda60db</webElementGuid>
+      <value>Thêm sách thành công</value>
+      <webElementGuid>71697aa5-3da8-4c31-9a23-e262e5e3013a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[1]/iframe[1]</value>
-      <webElementGuid>d357b23e-7f63-4ea8-8b3c-5383f855749f</webElementGuid>
+      <value>id(&quot;content-wrapper&quot;)/div[@class=&quot;container-fluid&quot;]/form[1]/div[@class=&quot;content-wrapper&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-header&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-9&quot;]/div[@class=&quot;form-group&quot;]/span[@class=&quot;field-validation-error text-success&quot;]</value>
+      <webElementGuid>e8683784-b3cf-450d-af91-6c8aee82eb98</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//iframe[@name='CKFinder']</value>
-      <webElementGuid>d45c3994-692c-43b4-a536-d7acf38cf3aa</webElementGuid>
+      <value>//div[@id='content-wrapper']/div/form/div/div/div/div/div/div/div/span[2]</value>
+      <webElementGuid>d688369a-1043-4a08-b407-dceb4e856160</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//iframe</value>
-      <webElementGuid>2d4e0851-c464-48a6-94ab-6ecd8960ee4e</webElementGuid>
+      <value>//span[2]</value>
+      <webElementGuid>b70e9588-fc01-40dc-b1f1-aae7ebcfb44b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//iframe[@title = 'CKFinder' and @name = 'CKFinder']</value>
-      <webElementGuid>321e9dd7-bbd3-49dc-a416-922530f2fca3</webElementGuid>
+      <value>//span[(text() = 'Thêm sách thành công' or . = 'Thêm sách thành công')]</value>
+      <webElementGuid>3e373934-e150-4057-a3b7-728802f5bb64</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

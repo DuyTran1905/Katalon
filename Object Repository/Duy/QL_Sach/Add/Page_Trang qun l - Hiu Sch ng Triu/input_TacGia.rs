@@ -3,15 +3,15 @@
    <description></description>
    <name>input_TacGia</name>
    <tag></tag>
-   <elementGuidId>c80b4d73-49c8-481b-bdd2-8e450d61307d</elementGuidId>
+   <elementGuidId>c8a24876-8fcd-4104-95b9-b73808402f37</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#TacGia</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='TacGia']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#TacGia</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>64c21de0-83a0-4f22-b08e-7a159c1fad52</webElementGuid>
+      <webElementGuid>f26b46f6-5033-4015-a829-09d7e5604ba4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>form-control text-box single-line</value>
-      <webElementGuid>19dc97b1-2c86-403d-9680-4418ea510c51</webElementGuid>
+      <webElementGuid>099e6466-bb98-4834-8806-15fe544b1d41</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>data-val</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>d8a56a1e-5a62-45b1-b2de-bcebdafeb9f0</webElementGuid>
+      <webElementGuid>d1c3b3e1-d73a-4166-acdd-3a965dd87145</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>data-val-length</name>
       <type>Main</type>
       <value>The field Tác giả must be a string with a maximum length of 50.</value>
-      <webElementGuid>3bbabb15-444e-44a1-880d-327f89403920</webElementGuid>
+      <webElementGuid>e529db29-c638-4dce-8fa7-6017535e2af6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-val-length-max</name>
       <type>Main</type>
       <value>50</value>
-      <webElementGuid>b756a081-a8a9-4606-9b58-8fce721a4d2e</webElementGuid>
+      <webElementGuid>54f8c24c-fdd8-4d1e-9721-e7c0267cab06</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-val-required</name>
       <type>Main</type>
       <value>The Tác giả field is required.</value>
-      <webElementGuid>5363367f-2dcc-4520-96c5-3f4ef06b3fd8</webElementGuid>
+      <webElementGuid>5b59e342-060a-4f0c-88fd-8adfa7f45f83</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>id</name>
       <type>Main</type>
       <value>TacGia</value>
-      <webElementGuid>1c723ad7-33b5-4359-90ca-0291e014efae</webElementGuid>
+      <webElementGuid>40c17661-fef4-4ef3-82e8-a9a2c186cac2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>name</name>
       <type>Main</type>
       <value>TacGia</value>
-      <webElementGuid>a811d50d-a2cd-4cf6-9b85-99ba109ef593</webElementGuid>
+      <webElementGuid>87445479-78f3-41d8-b779-e410b5249e95</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>5ae8a569-0544-4862-86b8-bc40517141b6</webElementGuid>
+      <webElementGuid>9b5ea1ea-78b3-4101-bd1c-70e5da49c73a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;TacGia&quot;)</value>
-      <webElementGuid>c3a8d858-8a61-4045-b9c5-25e48bc308b6</webElementGuid>
+      <webElementGuid>a71ad654-922e-47ff-81b0-36203483a08c</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='TacGia']</value>
-      <webElementGuid>d7aa1983-8e8c-4fae-9dc3-ef893a54359c</webElementGuid>
+      <webElementGuid>abae1efc-af9c-4136-bf2c-838ed191b3a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='content-wrapper']/div/form/div/div/div/div/div/div/div[3]/div/input</value>
-      <webElementGuid>ab185be7-4cfe-4926-86a9-ab395d0d00fb</webElementGuid>
+      <webElementGuid>479449fb-2d75-43ad-b70c-a0bb8eb9c76d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/input</value>
-      <webElementGuid>09b9134e-6ac6-4c9f-ab97-0b6e0924b91a</webElementGuid>
+      <webElementGuid>70bb370d-2a8c-4dcb-9ea4-e700e431d797</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'TacGia' and @name = 'TacGia' and @type = 'text']</value>
-      <webElementGuid>38c18014-80e9-4624-981c-03d61a575d38</webElementGuid>
+      <webElementGuid>8748cb92-38c9-44c0-baf5-4e8966b3cfb1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
